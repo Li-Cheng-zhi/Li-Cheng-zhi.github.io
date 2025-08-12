@@ -1,1 +1,1 @@
-bundle exec jekyll serve --livereload
+bundle exec jekyll serve --livereload --host 192.168.10.3 --port 4000
