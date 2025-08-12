@@ -19,7 +19,7 @@ redirect_from:
 
 <!-- 我是 [李成志](https://scholar.google.com/citations?user=Oj6jCP4AAAAJ)，本科就读于华中科技大学，现为北京理工大学计算机学院2023级博士研究生。我的研究兴趣包括大语言模型的可解释性，多模态大语言模型。-->
 
-I am **Chengzhi Li**, a PhD student at the School of Computer Science, Beijing Institute of Technology. My supervisor is Prof. Heyan Huang and Lecturer Ping Jian. 
+I am **Chengzhi Li (李成志)**, a PhD student at the School of Computer Science, Beijing Institute of Technology. My supervisor is Prof. Heyan Huang and Lecturer Ping Jian. 
 <!-- I received my Bachelor's degree from Huazhong University of Science and Technology in 2023. --> 
 My research focuses on the **Interpretability** of Large Language Models and the **Multimodal** Large Language Models.
 
