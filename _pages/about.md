@@ -49,9 +49,11 @@ My research focuses on the **Interpretability** of Large Language Models and the
 </div> -->
 <!-- 代表作的展示实例此处截止 -->
 
-- [Memory or Reasoning? Explore How LLMs Compute Mixed Arithmetic Expressions](https://aclanthology.org/2025.findings-acl.299/), Chengzhi Li, Heyan Huang, Ping Jian, Zhen Yang, Chenxu Wang, Yifan Wang; **ACL Findings 2025**
+- [Memory or Reasoning? Explore How LLMs Compute Mixed Arithmetic Expressions](https://aclanthology.org/2025.findings-acl.299/). Chengzhi Li, Heyan Huang, Ping Jian, Zhen Yang, Chenxu Wang, Yifan Wang; **ACL Findings 2025**
 
-- [Option Symbol Matters: Investigating and Mitigating Multiple-Choice Option Symbol Bias of Large Language Models](https://aclanthology.org/2025.naacl-long.95/), Zhen Yang, Ping Jian, Chengzhi Li; **NAACL Main 2025**
+- [Option Symbol Matters: Investigating and Mitigating Multiple-Choice Option Symbol Bias of Large Language Models](https://aclanthology.org/2025.naacl-long.95/). Zhen Yang, Ping Jian, Chengzhi Li; **NAACL Main 2025**
+  
+- [Constructing Your Model’s Value Distinction: Towards LLM Alignment with Anchor Words Tuning](https://2025.emnlp.org/program/find_papers/). Zhen Yang, Ping Jian, Chengzhi Li, Chenxu Wang, Xinyue Zhang, Wenpeng Lu; **EMNLP Findings 2026**
 
 # 🎖 Honors and Awards
 
